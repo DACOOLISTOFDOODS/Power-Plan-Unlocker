@@ -1,0 +1,8 @@
+C:\Users\darth\Desktop\Coding\Projects\Power-Plan-Unlocker\bin\Debug\Power-Plan-Unlocker.exe.config
+C:\Users\darth\Desktop\Coding\Projects\Power-Plan-Unlocker\bin\Debug\Power-Plan-Unlocker.exe
+C:\Users\darth\Desktop\Coding\Projects\Power-Plan-Unlocker\bin\Debug\Power-Plan-Unlocker.pdb
+C:\Users\darth\Desktop\Coding\Projects\Power-Plan-Unlocker\obj\Debug\Power-Plan-Unlocker.csproj.AssemblyReference.cache
+C:\Users\darth\Desktop\Coding\Projects\Power-Plan-Unlocker\obj\Debug\Power-Plan-Unlocker.csproj.SuggestedBindingRedirects.cache
+C:\Users\darth\Desktop\Coding\Projects\Power-Plan-Unlocker\obj\Debug\Power-Plan-Unlocker.csproj.CoreCompileInputs.cache
+C:\Users\darth\Desktop\Coding\Projects\Power-Plan-Unlocker\obj\Debug\Power-Plan-Unlocker.exe
+C:\Users\darth\Desktop\Coding\Projects\Power-Plan-Unlocker\obj\Debug\Power-Plan-Unlocker.pdb
